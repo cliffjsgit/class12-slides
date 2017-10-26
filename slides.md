@@ -214,3 +214,5 @@ server {
 +++++
 
 More on Falcon and Flask will be coming up next class. The remainder of the class (and possibly homework) is to be spent doing a Django lab.
+
+[https://docs.djangoproject.com/en/1.11/intro/tutorial01/](https://docs.djangoproject.com/en/1.11/intro/tutorial01/)
