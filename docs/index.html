@@ -22,8 +22,8 @@
 
 </script></section><section ><section data-markdown><script type="text/template">
 
-#### Django, Falcon, and Flask! Oh my! - An Overview of Full Stack
-
+## Django, Falcon, and Flask! Oh my! - An Overview of Full Stack
+<br /><br /><br /><br /><br />
 ###### Content in part from https://www.fullstackpython.com. A great resource for information on web frameworks.
 
 </script></section><section data-markdown><script type="text/template">
@@ -85,6 +85,8 @@ The Django project's stability, performance and community have grown tremendousl
 #### Why Django (cont)
 
 The Django framework is a great starting place for new Python web developers because the official documentation and tutorials are some of the best anywhere in software development. Many cities also have Django-specific groups. While Austin does not currently have one, we do have a “Austin Web Python” meetup that is active. 
+
+</script></section><section data-markdown><script type="text/template">
 
 #### Why not Django?
 
@@ -158,6 +160,8 @@ Of course not. A traditional web server does not understand or have any way to r
 #### WSGI
 
 A Web Server Gateway Interface (WSGI) server implements the web server side of the WSGI interface for running Python web applications.
+
+</script></section><section data-markdown><script type="text/template">
 
 In the late 1990s, a developer named Grisha Trubetskoy came up with an Apache module called mod\_python to execute arbitrary Python code. For several years in the late 1990s and early 2000s, Apache configured with mod\_python ran most Python web applications.  However, mod\_python wasn't a standard specification. It was just an implementation that allowed Python code to run on a server. As mod\_python's development stalled and security vulnerabilities were discovered there was recognition by the community that a consistent way to execute Python code for web applications was needed.  Therefore the Python community came up with WSGI as a standard interface that modules and containers could implement. WSGI is now the accepted approach for running Python web applications.
 
