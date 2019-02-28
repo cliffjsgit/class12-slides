@@ -10,7 +10,7 @@ revealOptions:
 ### ITSE-1402 Intermediate Python
 <span style="font-family:Helvetica Neue; font-weight:bold; color:#e49436">Class 12: Django, Falcon, and Flask! Oh my! - An Overview of Full Stack</span>
 <br /><br />
-##### [https://coder.run/1402-class12](https://coder.run/1402-class12)
+##### [https://bit.ly/1402-class12](https://bit.ly/1402-class12)
 
 -----
 
@@ -214,7 +214,7 @@ server {
 +++++
 
 Flask/Falcon Lab:
-[https://coder.run/1402-apilab](https://coder.run/1402-apilab)
+[https://bit.ly/1402-apilab](https://bit.ly/1402-apilab)
 
 Django Tutorial
-[https://coder.run/1402-django](https://coder.run/1402-django)
+[https://bit.ly/1402-django](https://bit.ly/1402-django)
