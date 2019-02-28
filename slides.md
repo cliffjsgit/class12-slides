@@ -213,8 +213,5 @@ server {
 
 +++++
 
-Flask/Falcon Lab:
-[https://bit.ly/1402-apilab](https://bit.ly/1402-apilab)
-
 Django Tutorial
 [https://bit.ly/1402-django](https://bit.ly/1402-django)
