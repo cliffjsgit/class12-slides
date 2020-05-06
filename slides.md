@@ -59,6 +59,8 @@ Frameworks like Flask and Falcon don't necessarily have a built-in ORM like Djan
 
 Django is a widely-used Python web application framework with a "batteries-included" philosophy. The principle behind batteries-included is that the common functionality for building web applications should come with the framework instead of as separate libraries.
 
+Django Tutorial  -  https://www.djangoproject.com/start/
+
 +++++
 
 Just a few built in features:
@@ -70,6 +72,7 @@ Just a few built in features:
 
 Note:
 Compare this to flask which requires an external library for authentication. The batteries-included and extensibility philosophies are simply two different ways to tackle framework building. Neither philosophy is inherently better than the other one.
+
 
 +++++
 
