@@ -7,16 +7,17 @@ revealOptions:
     transition: 'fade'
 ---
 
-### ITSE-1402 Intermediate Python
+### ITSE-1042 Intermediate Python
 <span style="font-family:Helvetica Neue; font-weight:bold; color:#e49436">Class 12: Django, Falcon, and Flask! Oh my! - An Overview of Full Stack</span>
 <br /><br />
-##### [https://bit.ly/1402-class12](https://bit.ly/1402-class12)
 
 -----
 
 ## Django, Falcon, and Flask! Oh my! - An Overview of Full Stack
 <br /><br /><br /><br /><br />
-###### Content in part from https://www.fullstackpython.com. A great resource for information on web frameworks.
+#### Content in part from https://www.fullstackpython.com   
+#### A great resource for information on web frameworks.      
+
 
 +++++
 
@@ -213,5 +214,4 @@ server {
 
 +++++
 
-Django Tutorial
-[https://bit.ly/1402-django](https://bit.ly/1402-django)
+Django Tutorial  -  https://www.djangoproject.com/start/
