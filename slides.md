@@ -21,13 +21,13 @@ revealOptions:
 
 +++++
 
-### What is a Web Application Server
+### What is a Web Application Server?
 
 ![Image](./assets/Web-application-architecture.png)     
 +++++    
     
-### What is a Web Server / Web Application Server    
-    
+### What is a Web Server / Web Application Server?   
+      
 - A web server accepts and fulfills HTTP requests from web clients or browsers   
   - HTML pages, files, images, videos, etc      
   - Web pages are often written in HTML, CSS, JSP          
