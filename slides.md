@@ -14,22 +14,39 @@ revealOptions:
 -----
 
 ## Django, Falcon, and Flask! Oh my! - An Overview of Full Stack
-<br /><br /><br /><br /><br />
+<br /><br /><br />
 #### Content in part from https://www.fullstackpython.com   
 #### A great resource for information on web frameworks.      
 
 
 +++++
 
-### What is a web framework?
+### What is a Web Application Server
 
-A web framework is a library that makes building reliable, scalable and maintainable web applications relatively easy.
+![Image](./assets/Web-application-architecture.png)     
++++++    
+    
+### What is a Web Server / Web Application Server    
+    
+- A web server accepts and fulfills HTTP requests from web clients or browsers   
+  - HTML pages, files, images, videos, etc      
+  - Web pages are often written in HTML, CSS, JSP          
+- A web application server generates dynamic content and exposes business logic to the web client or browser           
+  - The web applications are often written in Python, Java/J2EE, C#/.NET, Perl, Ruby/Rails, etc.   
+  - The business logic is often used to access or modify a database   
 
 +++++
 
-### Why are web frameworks useful?
+### What is a web framework?
 
-Web frameworks allow you to reuse code for common website operations. They also establish a site structure that allows any developer with knowledge of the framework to easily work on it.
+A web framework is a library that makes building reliable, scalable and maintainable web application sites relatively easy.
+
+### Why are web frameworks useful?
+#### Web framewords provide these advantages:
+- Example templates with organizations that can be used to easily create a web site   
+- Quick reuse of code for common website operations   
+- Establish a site structure which helps any developer with knowledge of the framework to easily work on it   
+
 
 +++++
 
@@ -38,7 +55,7 @@ Web frameworks allow you to reuse code for common website operations. They also 
 - Output templating
 - URL Routing
 - Login / Session tracking and management
-- Database manipulation
+- Database access/manipulation
 
 +++++
 
