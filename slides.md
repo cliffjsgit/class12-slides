@@ -43,9 +43,9 @@ A web framework is a library that makes building reliable, scalable and maintain
 
 ### Why are web frameworks useful?
 #### Web framewords provide these advantages:
-- Example templates with organizations that can be used to easily create a web site   
-- Quick reuse of code for common website operations   
-- Establish a site structure which helps any developer with knowledge of the framework to easily work on it   
+- Example templates with organizations that can be used to easily create a web site      
+- Quick reuse of code for common website operations and rapid deployment     
+- Establish a site structure which helps any developer with knowledge of the framework to easily work on it      
 
 
 +++++
