@@ -115,6 +115,30 @@ There is debate as to whether or not Django is beneficial to learn for novice py
 
 +++++
 
+#### Dango Website Prject Directory Sructure
+
+```python
+locallibrary/
+    manage.py
+    locallibrary/
+    catalog/
+        admin.py
+        apps.py
+        models.py
+        tests.py
+        views.py
+        __init__.py
+        migrations/
+```
+Note:    
+   - Migrations folder, used to store "migrations"    
+      — files that allow you to automatically update your database as you modify your models.
+   - __init__.py      
+      — an empty file created here so that Django/Python will recognise the folder as a Python Package and allow you to 
+        use its objects within other parts of the project.    
+    
+   
+
 #### Flask
 
 Flask is considered more Pythonic than Django because Flask web application code is in most cases more explicit. Flask is easy to get started with as a beginner because there is little boilerplate code for getting a simple app up and running.
@@ -145,8 +169,8 @@ Flask was also written several years after Django and therefore learned from the
 
 #### Falcon
 
-Falcon, of the three frameworks we will talk about, is probably the simplest and only for certain use cases. It is a WSGI-compliant web framework designed to build RESTful APIs without requiring external code library dependencies. It is very quick and very minimal.
-
+Falcon, of the three frameworks we will talk about, is probably the simplest and only for certain use cases. It is a WSGI-compliant web framework designed to build RESTful APIs without requiring external code library dependencies. It is very quick and very minimal.   
+   
 +++++
 
 app.py
