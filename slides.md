@@ -135,16 +135,20 @@ Note:
       — files that allow you to automatically update your database as you modify your models.
    - __init__.py      
       — an empty file created here so that Django/Python will recognise the folder as a Python Package and allow you to 
-        use its objects within other parts of the project.    
+        use its objects within other parts of the project. 
+        
     
    
++++++
 
 #### Flask
+
 
 Flask is considered more Pythonic than Django because Flask web application code is in most cases more explicit. Flask is easy to get started with as a beginner because there is little boilerplate code for getting a simple app up and running.
 
 Note:
 Unlike Django, there isn't too much in the way of features to talk about and we can show the code for a simple hello world in two files.
+
 
 +++++
 
